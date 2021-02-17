@@ -1,7 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/BigKuCha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BigKuCha&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/BigKuCha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BigKuCha&show_icons=true&theme=radical" />
 </a>
 
